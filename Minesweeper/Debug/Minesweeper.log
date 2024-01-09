@@ -1,0 +1,20 @@
+﻿  Board.cpp
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(54,65): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(54,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(58,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(58,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(64,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(64,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(68,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(68,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(82,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(82,48): warning C4244:         with
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(82,48): warning C4244:         [
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(82,48): warning C4244:             T=float
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(82,48): warning C4244:         ]
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(82,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(82,36): warning C4244:         with
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(82,36): warning C4244:         [
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(82,36): warning C4244:             T=float
+C:\Users\MiroTheMighty\source\repos\Minesweeper\Minesweeper\Board.cpp(82,36): warning C4244:         ]
+  Minesweeper.vcxproj -> C:\Users\MiroTheMighty\source\repos\Minesweeper\Debug\Minesweeper.exe
