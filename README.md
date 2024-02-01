@@ -1,8 +1,28 @@
-# Minesweeper
+<h1 align="center">Minesweeper</h1>
 
-To run the game download the file. Then go into Debug->Minesweeper.exe and the game should run.
+<h2 align="left">Description</h2>
 
-Otherwise open up visual studio set up the SFML librarys and import all the code then you can directly run it from VS.
+Minesweeper is a classic single-player puzzle game where the objective is to clear a rectangular board containing hidden mines without detonating any of them. The game is played by revealing cells on the board, with each cell either containing a mine or a number indicating the count of adjacent mines.
+
+This project aims to provide a simple implementation of the Minesweeper game using C++ and SFML.
+
+<h2 align="left">Feature</h2>  
+
+- Classic Minesweeper gameplay        
+- 3 difficulties: beginner, intermediate, expert    
+- Highscores record    
+
+<h2 align="left">Screenshots</h2>
+
+<h2 align="left">Installation</h2>
+
+To download the game you can use:
+
+```bash
+git clone https://github.com/MiroTheMighty/Minesweeper.git
+```
+
+<h2 align="left">Controls</h2>
 
 ## Controls
 Main menu:  
