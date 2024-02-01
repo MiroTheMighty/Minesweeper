@@ -22,9 +22,12 @@ To download the game you can use:
 git clone https://github.com/MiroTheMighty/Minesweeper.git
 ```
 
+or you can go to <>Code->Download ZIP.  
+
+Afterwards go to Release->Minesweeper.exe
+
 <h2 align="left">Controls</h2>
 
-## Controls
 Main menu:  
 - Up arrow and down arrow used for navigation  
 - Enter key used for selecting an option  
