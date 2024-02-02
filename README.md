@@ -14,6 +14,14 @@ This project aims to provide a simple implementation of the Minesweeper game usi
 
 <h2 align="left">Screenshots</h2>
 
+<img src="Docs/MainMenu.png" alt="Main menu">
+<img src="Docs/PlayMenu.png" alt="Play menu">
+<img src="Docs/HighscoresMenu.png" alt="Highscores menu">
+<img src="Docs/Beginner.png" alt="Beginner">
+<img src="Docs/Intermediate.png" alt="Intermediate">
+<img src="Docs/Expert.png" alt="Expert">
+
+
 <h2 align="left">Installation</h2>
 
 To download the game you can use:
