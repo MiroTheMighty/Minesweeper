@@ -6,7 +6,7 @@ Minesweeper is a classic single-player puzzle game where the objective is to cle
 
 This project aims to provide a simple implementation of the Minesweeper game using C++ and SFML.
 
-<h2 align="left">Feature</h2>  
+<h2 align="left">Features</h2>  
 
 - Classic Minesweeper gameplay        
 - 3 difficulties: beginner, intermediate, expert    
